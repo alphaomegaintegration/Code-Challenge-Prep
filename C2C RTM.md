@@ -8,13 +8,13 @@
 
 | Metric | Count |
 |---|---:|
-| Personas | 5 |
+| Personas | 3 |
 | Epics | 9 |
 | User Stories / RTM Entries | 60 |
 
 ## Navigation
 
-Jump to: [Administrator](#persona-administrator) • [Engineering](#persona-engineering) • [Shuttle Operator](#persona-shuttle-operator) • [Student](#persona-student) • [Unknown](#persona-unknown) • [Epic View](#epic-view)
+Jump to: [Administrator](#persona-administrator) • [Shuttle Operator](#persona-shuttle-operator) • [Student](#persona-student) •[Epic View](#epic-view)
 
 ---
 
@@ -45,14 +45,6 @@ Jump to: [Administrator](#persona-administrator) • [Engineering](#persona-engi
 | RTM-045  | Epic 6 – Admin Operations Center | Admin Dashboard                            | Done                     |
 | RTM-046  | Epic 6 – Admin Operations Center | Admin can add Financial Aid tag to student | Done                     |
 
-### Persona: Engineering
-
-<a id='persona-engineering'></a>
-
-| RTM-ID   | Epic                      | User Story Title                          | Jira Status   |
-|:---------|:--------------------------|:------------------------------------------|:--------------|
-| RTM-049  | Infrastructure / Platform | Add infrastructure auto-generation script | Done          |
-| RTM-050  | Infrastructure / Platform | Gherkin Driven E2E Playwright Test        | Done          |
 
 ### Persona: Shuttle Operator
 
@@ -97,14 +89,6 @@ Jump to: [Administrator](#persona-administrator) • [Engineering](#persona-engi
 | RTM-026  | Epic 5 – Student Engagement & Social       | Buddy Matching                                         | Done                     |
 | RTM-027  | Epic 5 – Student Engagement & Social       | Emergency Protocol                                     | Selected for Development |
 | RTM-028  | Epic 5 – Student Engagement & Social       | Student Financial Aid                                  | Done                     |
-
-### Persona: Unknown
-
-<a id='persona-unknown'></a>
-
-| RTM-ID   | Epic     | User Story Title                                     | Jira Status   |
-|:---------|:---------|:-----------------------------------------------------|:--------------|
-| RTM-051  | Unmapped | Reintroduce Backend Operator View Passenger Manifest | Done          |
 
 ---
 
